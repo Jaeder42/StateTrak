@@ -1,0 +1,11 @@
+c:\users\johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\bin\Debug\CsGoComp.exe.config
+c:\users\johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\bin\Debug\CsGoComp.exe
+c:\users\johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\bin\Debug\CsGoComp.pdb
+c:\users\johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\obj\Debug\CsGoComp.csprojResolveAssemblyReference.cache
+c:\users\johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\obj\Debug\CsGoComp.Form1.resources
+c:\users\johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\obj\Debug\CsGoComp.Properties.Resources.resources
+c:\users\johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\obj\Debug\CsGoComp.csproj.GenerateResource.Cache
+c:\users\johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\obj\Debug\CsGoComp.exe
+c:\users\johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\obj\Debug\CsGoComp.pdb
+C:\Users\Johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Johan\documents\visual studio 2015\Projects\CsGoComp\CsGoComp\bin\Debug\Newtonsoft.Json.xml
